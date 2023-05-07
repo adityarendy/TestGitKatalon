@@ -29,5 +29,3 @@ WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
 
 WebUI.verifyTextPresent('Dashboard', false)
 
-WebUI.closeBrowser()
-
