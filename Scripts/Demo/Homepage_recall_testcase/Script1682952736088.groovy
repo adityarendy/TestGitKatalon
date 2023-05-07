@@ -29,5 +29,3 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/i_Dashboard_oxd-ico
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Logout'))
 
-WebUI.closeBrowser()
-
