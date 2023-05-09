@@ -6,16 +6,16 @@
    <elementGuidId>66eeca6d-6fde-4cfc-8f71-0e3be78c6a5f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;password&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@name='password']</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@type = 'password' and @name = 'password' and @placeholder = 'Password']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;password&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

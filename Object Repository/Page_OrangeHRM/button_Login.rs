@@ -6,12 +6,12 @@
    <elementGuidId>e97da9aa-c8eb-4696-9383-7281487ee80f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.oxd-button.oxd-button--medium.oxd-button--main.orangehrm-login-button</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.oxd-button.oxd-button--medium.oxd-button--main.orangehrm-login-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
